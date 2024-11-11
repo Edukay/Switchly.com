@@ -132,8 +132,8 @@ a:hover {
 }
 
 .section-hero ::selection,
-.bg-warning ::selection {
-  background: #f9d55c;
+.bg-primary ::selection {
+  background: #2704f1;
 }
 
 .section-padding {
