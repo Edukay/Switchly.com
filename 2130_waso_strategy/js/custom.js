@@ -36,11 +36,5 @@
       }, 300);
   }
 
-  const hiddenImage = document.querySelector('.hidden-image');
-
-  hiddenImage.style.display = 'block';
-});
-    
+ 
   })(window.jQuery);
-
-

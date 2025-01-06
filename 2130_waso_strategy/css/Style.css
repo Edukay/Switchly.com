@@ -6,3 +6,7 @@
 #section_1{
 color: blue;
 }
+
+.tab-pane{
+    align-content: center;
+}
